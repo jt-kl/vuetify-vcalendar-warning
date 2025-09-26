@@ -1,5 +1,5 @@
 <template>
-  <HelloWorld />
+  <v-calendar></v-calendar>
 </template>
 
 <script setup>

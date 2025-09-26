@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-calendar></v-calendar>
+    <RouterView/>
   </v-app>
 </template>
 
